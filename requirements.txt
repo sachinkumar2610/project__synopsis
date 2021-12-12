@@ -56,8 +56,7 @@ Pygments
 pyparsing
 pyrsistent
 python-dateutil
-pytz
-pywin32
+pytzs
 pywinpty
 pyzmq
 qtconsole
