@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'InstaUser-details'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E31D47F83A043FF85B6CB9F6A11E112 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0BAB0D49CD4A4828998BE5845AB86B88 }}
